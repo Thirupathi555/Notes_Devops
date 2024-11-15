@@ -61,15 +61,15 @@ frontend-dev
 
 developement:
 ------------
-mysql-dev-daws81s.fun
-backend-dev-daws81s.fun
-frontend-dev-daws81s.fun
+mysql-dev-thirupathis.online
+backend-dev-thirupathis.online
+frontend-dev-thirupathis.online
 
 production:
 -----------
-mysql-prod-daws81s.fun
-backend-prod-daws81s.fun
-daws81s.fun   # domain name 
+mysql-prod-thirupathis.online
+backend-prod-thirupathis.online
+thirupathis.online   # domain name 
 
 Resource definition and arguements remains same and only the values get changed in developement and production environment
 
