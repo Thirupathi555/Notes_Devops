@@ -92,7 +92,7 @@ git add <file-name>
 -> To commit the, command is --> git commit -m "I created a new Hello world"
 -> It asks for username and your name 
 -> commands are, git config --global user.email "lakshmimungara2997@gmail.com"
--> git config --global user.name "Maha Lakshmi"
+-> git config --global user.name "Thirupathi pintu"
 
 To push into the Remote server 
 --------------------------------
