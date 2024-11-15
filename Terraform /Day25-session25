@@ -18,9 +18,9 @@ Now in today's class
 requirements for Use case  
 1. 3 ec2 instances 
 2. 3 r53 records 
-mysql.daws81s.fun --> t3.small
-backend.daws81s.fun --> t3.micro 
-daws81s.fun --> t3.micro 
+mysql.thirupathis.online --> t3.small
+backend.thirupathis.online --> t3.micro 
+thirupathis.online --> t3.micro 
 
 r53 
 -----
@@ -31,9 +31,9 @@ aws_instance.terraform
 
 for example:
 -----------
-we have, backend.daws81s.fun 
+we have, backend.thirupathis.online 
 var.instance_names = backend 
-domain_name = daws81s.fun 
+domain_name = thirupathis.online 
 combining these are called as interpolation or concatenation
 
 "${var.instance_names[count.index]}.${var.domain_name}"
